@@ -144,4 +144,10 @@ The financial ratios mentioned earlier for fundamental analysis are also crucial
 #### **Additional Quantitative Techniques:**
 
 * **Discounted Cash Flow (DCF) Analysis:** This method estimates the intrinsic value of a stock by considering its future cash flows discounted to their present value. 
-* **Statistical Modeling:**  Techniques like regression analysis can be used to identify relationships between a stock's price and various financial variables. 
+* **Statistical Modeling:**  Techniques like regression analysis can be used to identify relationships between a stock's price and various financial variables.
+
+
+### **Pharmaceuticals Stocks (Ordered by Market Cap)**
+* **ELI LILLY AND COMPANY (LLY) - 732B USD**
+* **JOHNSON AND JOHNSON (JNJ) - 372B USD**
+* 
