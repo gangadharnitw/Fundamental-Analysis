@@ -148,6 +148,8 @@ The financial ratios mentioned earlier for fundamental analysis are also crucial
 
 
 ### **Pharmaceuticals Stocks (Ordered by Market Cap)**
-* **ELI LILLY AND COMPANY (LLY) - 732B USD**
-* **JOHNSON AND JOHNSON (JNJ) - 372B USD**
-* 
+* ELI LILLY AND COMPANY (LLY) - 732B USD
+* JOHNSON AND JOHNSON (JNJ) - 372B USD
+* MERCK AND COMPANY (MRK) - 332B USD
+* ABBVIE INC (ABBV) - 294B USD
+* AMGEN INC (AMGN) - 168B USD
