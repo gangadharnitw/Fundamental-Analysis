@@ -1,88 +1,36 @@
-When analyzing a company's financial performance, financial ratios are grouped into different categories based on the aspects of the business they evaluate. Here’s a breakdown of **financial ratio groups** that are commonly used in stock analysis:
 
-### 1. **Profitability Ratios**
-   - These ratios measure a company’s ability to generate profit relative to its revenue, assets, equity, and other financial elements.
-   
-   **Key Profitability Ratios:**
-   - **Gross Profit Margin** = (Revenue - Cost of Goods Sold) / Revenue
-   - **Operating Profit Margin** = Operating Income / Revenue
-   - **Net Profit Margin** = Net Income / Revenue
-   - **Return on Assets (ROA)** = Net Income / Total Assets
-   - **Return on Equity (ROE)** = Net Income / Shareholder Equity
-   - **Return on Investment (ROI)** = Net Profit / Investment Cost
-
-### 2. **Valuation Ratios**
-   - Valuation ratios determine whether a stock is overvalued or undervalued by comparing its price to underlying financial performance.
-   
-   **Key Valuation Ratios:**
-   - **Price-to-Earnings (P/E) Ratio** = Stock Price / Earnings Per Share (EPS)
-   - **Price-to-Sales (P/S) Ratio** = Stock Price / Revenue Per Share
-   - **Price-to-Book (P/B) Ratio** = Stock Price / Book Value Per Share
-   - **Enterprise Value (EV) to EBITDA** = Enterprise Value / EBITDA
-   - **Dividend Yield** = Dividend Per Share / Stock Price
-
-### 3. **Liquidity Ratios**
-   - Liquidity ratios assess a company’s ability to meet its short-term obligations and maintain sufficient cash flow for daily operations.
-   
-   **Key Liquidity Ratios:**
-   - **Current Ratio** = Current Assets / Current Liabilities
-   - **Quick Ratio (Acid-Test Ratio)** = (Current Assets - Inventory) / Current Liabilities
-   - **Cash Ratio** = Cash and Cash Equivalents / Current Liabilities
-
-### 4. **Leverage (Debt) Ratios**
-   - Leverage ratios measure the level of debt a company has relative to its equity, assets, or earnings, providing insights into financial risk.
-   
-   **Key Leverage Ratios:**
-   - **Debt-to-Equity Ratio** = Total Debt / Shareholder Equity
-   - **Debt-to-Assets Ratio** = Total Debt / Total Assets
-   - **Interest Coverage Ratio** = Operating Income / Interest Expense
-   - **Debt Service Coverage Ratio (DSCR)** = Net Operating Income / Total Debt Service
-
-### 5. **Efficiency (Activity) Ratios**
-   - These ratios measure how efficiently a company uses its assets and liabilities to generate sales and maximize profits.
-   
-   **Key Efficiency Ratios:**
-   - **Asset Turnover Ratio** = Revenue / Total Assets
-   - **Inventory Turnover Ratio** = Cost of Goods Sold / Average Inventory
-   - **Receivables Turnover Ratio** = Revenue / Average Accounts Receivable
-   - **Days Sales Outstanding (DSO)** = (Accounts Receivable / Revenue) * 365
-   - **Days Inventory Outstanding (DIO)** = (Inventory / Cost of Goods Sold) * 365
-
-### 6. **Growth Ratios**
-   - Growth ratios evaluate the ability of a company to increase its earnings, revenue, or dividends over time, signaling potential for future expansion.
-   
-   **Key Growth Ratios:**
-   - **Revenue Growth Rate** = (Current Year Revenue - Previous Year Revenue) / Previous Year Revenue
-   - **Earnings Per Share (EPS) Growth Rate** = (Current Year EPS - Previous Year EPS) / Previous Year EPS
-   - **Dividend Growth Rate** = (Current Year Dividend - Previous Year Dividend) / Previous Year Dividend
-
-### 7. **Market Ratios**
-   - These ratios provide insights into how the market views the company and its performance, often reflecting investor expectations.
-   
-   **Key Market Ratios:**
-   - **Earnings Yield** = Earnings Per Share / Stock Price
-   - **Market-to-Book Ratio** = Market Price Per Share / Book Value Per Share
-   - **Price/Earnings to Growth (PEG) Ratio** = P/E Ratio / EPS Growth Rate
-   - **Enterprise Value to Sales (EV/Sales)** = Enterprise Value / Sales
-
-### 8. **Dividend Ratios**
-   - These ratios focus on the company’s dividend payments and how they relate to its stock price, earnings, and overall financial health.
-   
-   **Key Dividend Ratios:**
-   - **Dividend Payout Ratio** = Dividends / Net Income
-   - **Dividend Yield** = Annual Dividends Per Share / Stock Price
-   - **Dividend Coverage Ratio** = Earnings Per Share / Dividends Per Share
-
----
-
-### Summary of Financial Ratio Groups:
-1. **Profitability Ratios**: Measure the ability to generate profit.
-2. **Valuation Ratios**: Determine stock value relative to financial performance.
-3. **Liquidity Ratios**: Assess ability to cover short-term liabilities.
-4. **Leverage (Debt) Ratios**: Measure the level of debt and financial risk.
-5. **Efficiency Ratios**: Evaluate asset and liability utilization efficiency.
-6. **Growth Ratios**: Assess the company’s growth in revenue, earnings, etc.
-7. **Market Ratios**: Reflect market sentiment and investor expectations.
-8. **Dividend Ratios**: Focus on dividend-related metrics.
-
-Each ratio group serves a different purpose and provides insights into various aspects of a company's financial health, performance, and stock valuation.
+| **Ratio**                        | **Group**             | **Formula (Plain Text)**                               | **Explanation**                                                                                  | **Healthy Range**                     | **Red Flag**                                              |
+|-----------------------------------|-----------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------|------------------------------------------------------------|
+| **Gross Profit Margin**           | Profitability         | (Revenue - Cost of Goods Sold) / Revenue               | Measures efficiency in production and cost control.                                               | 30% to 60%                            | Margin below 20% or consistently declining.                |
+| **Operating Profit Margin**       | Profitability         | Operating Income / Revenue                             | Shows how well the company manages operating costs.                                               | 10% to 20%                            | Declining margin or below 10%.                             |
+| **Net Profit Margin**             | Profitability         | Net Income / Revenue                                   | Percentage of revenue remaining after all expenses.                                               | 5% to 20%                             | Margin below 5%.                                           |
+| **Return on Assets (ROA)**        | Profitability         | Net Income / Total Assets                              | Measures how efficiently a company uses its assets to generate profit.                            | 5% to 10%                             | ROA below 2%.                                              |
+| **Return on Equity (ROE)**        | Profitability         | Net Income / Shareholder Equity                        | Shows how efficiently the company uses shareholders’ equity to generate profit.                   | 10% to 20%                            | ROE below 10%.                                             |
+| **Return on Investment (ROI)**    | Profitability         | Net Profit / Investment Cost                           | Measures the gain or loss generated relative to the cost of investment.                           | >15%                                  | ROI below 10% indicates low returns on investments.         |
+| **Price-to-Earnings (P/E) Ratio** | Valuation             | Stock Price / Earnings Per Share (EPS)                 | Measures how much investors are willing to pay for each dollar of earnings.                       | 15 to 25                              | P/E above 40 (overvaluation), P/E below 10 (undervaluation).|
+| **Price-to-Sales (P/S) Ratio**    | Valuation             | Stock Price / Revenue Per Share                        | Measures how much investors are willing to pay for each dollar of revenue.                        | <2                                    | P/S above 3 could indicate overvaluation.                   |
+| **Price-to-Book (P/B) Ratio**     | Valuation             | Stock Price / Book Value Per Share                     | Compares the company’s market value to its book value (net asset value).                          | <1.5                                  | P/B above 3 (overvaluation), P/B below 1 (undervaluation).  |
+| **PEG Ratio**                    | Valuation             | P/E Ratio / Earnings Growth Rate                       | Measures stock valuation while accounting for earnings growth.                                    | 1 to 2                                | PEG > 2 suggests overvaluation; PEG < 1 suggests undervaluation.|
+| **Enterprise Value to Sales**     | Valuation             | Enterprise Value / Sales                               | Compares the company's total value to its sales revenue.                                          | 1 to 3                                | EV/Sales > 5 may indicate overvaluation.                    |
+| **EV/EBITDA**                     | Valuation             | Enterprise Value / EBITDA                              | Compares the company’s total value to earnings before interest, taxes, depreciation, and amortization. | 5 to 12                               | EV/EBITDA above 15 (overvaluation).                        |
+| **Earnings Yield**                | Market                | Earnings Per Share / Stock Price                       | Shows the earnings generated per dollar of stock price.                                           | 4% to 10%                             | Below 4% indicates low earnings relative to price.          |
+| **Market-to-Book Ratio**          | Market                | Market Price Per Share / Book Value Per Share          | Compares the stock’s market value to its book value.                                              | 1 to 3                                | Ratio above 3 suggests overvaluation; below 1 suggests undervaluation. |
+| **Current Ratio**                 | Liquidity             | Current Assets / Current Liabilities                   | Measures the company’s ability to cover short-term liabilities with short-term assets.            | 1.5 to 2                              | Current Ratio below 1 indicates liquidity issues.           |
+| **Quick Ratio**                   | Liquidity             | (Current Assets - Inventory) / Current Liabilities     | Stricter liquidity measure, excludes inventory from assets.                                       | >1                                    | Quick Ratio below 1 could indicate liquidity concerns.      |
+| **Cash Ratio**                    | Liquidity             | Cash and Cash Equivalents / Current Liabilities        | Measures a company's ability to cover short-term liabilities with only cash and cash equivalents.  | >0.5                                  | Cash Ratio below 0.5 could signal liquidity concerns.       |
+| **Debt-to-Equity Ratio**          | Debt                  | Total Debt / Shareholder Equity                        | Measures how much debt a company is using relative to equity.                                     | 0.5 to 1                              | Above 2 may indicate excessive debt.                        |
+| **Debt-to-Assets Ratio**          | Debt                  | Total Debt / Total Assets                              | Measures the percentage of a company’s assets that are financed by debt.                          | 20% to 50%                            | Above 60% may indicate excessive debt relative to assets.    |
+| **Debt Service Coverage Ratio (DSCR)** | Debt              | Net Operating Income / Total Debt Service              | Measures a company’s ability to cover its debt payments from operating income.                    | >1.5                                  | Below 1 signals difficulty in covering debt obligations.     |
+| **Interest Coverage Ratio**       | Debt                  | Operating Income / Interest Expense                    | Measures a company’s ability to cover interest expenses with operating income.                    | >3                                    | Below 1.5 signals potential trouble covering interest.      |
+| **Asset Turnover Ratio**          | Efficiency            | Revenue / Total Assets                                 | Measures how efficiently a company uses its assets to generate revenue.                           | 0.5 to 1.5                            | A low ratio (<0.5) could indicate inefficient asset usage.  |
+| **Inventory Turnover Ratio**      | Efficiency            | Cost of Goods Sold / Average Inventory                 | Shows how quickly a company sells through its inventory.                                          | 5 to 10 (varies by industry)          | Low turnover (<3) indicates slow inventory movement.        |
+| **Receivables Turnover Ratio**    | Efficiency            | Revenue / Average Accounts Receivable                  | Shows how efficiently a company collects revenue from credit sales.                               | >5                                    | Low turnover (<3) suggests collection issues.               |
+| **Days Sales Outstanding (DSO)**  | Efficiency            | (Accounts Receivable / Revenue) * 365                  | Measures the average number of days it takes to collect payment after a sale.                     | 30-60 days                           | High DSO (>90 days) indicates slow collection of payments.  |
+| **Days Inventory Outstanding (DIO)** | Efficiency         | (Inventory / COGS) * 365                              | Shows how many days, on average, inventory is held before being sold.                             | 30-90 days (industry dependent)       | High DIO (>120 days) means slow inventory turnover.         |
+| **Revenue Growth Rate**           | Growth                | (Current Year Revenue - Previous Year Revenue) / Previous Year Revenue | Measures the company's ability to grow revenue over time.                                         | Positive growth                       | Negative or slowing growth indicates possible issues.        |
+| **Earnings Growth Rate (EPS Growth)** | Growth            | (Current EPS - Previous EPS) / Previous EPS            | Measures how quickly a company’s earnings per share are growing over time.                        | Positive and consistent               | Negative or declining EPS growth could signal trouble.       |
+| **Dividend Payout Ratio**         | Dividend              | Dividends / Net Income                                 | Shows what percentage of net income is paid out as dividends.                                     | 30% to 50%                            | A very high payout ratio (>70%) could mean less reinvestment.|
+| **Dividend Yield**                | Dividend              | Dividends Per Share / Stock Price                      | Measures how much a company pays out in dividends relative to its stock price.                    | 2% to 6%                              | Yield below 2% might not attract income-focused investors.   |
+| **Dividend Growth Rate**          | Dividend              | (Current Year Dividend - Previous Year Dividend) / Previous Year Dividend | Measures the rate at which a company increases its dividend payments over time.                   | Positive growth                       | Declining or negative dividend growth could indicate cash flow problems. |
+| **Dividend Coverage Ratio**       | Dividend              | EPS / Dividends Per Share                              | Shows how easily a company can cover dividend payments from earnings.                             | >1.5                                  | Below 1 indicates that dividends are not well covered.       |
+``` 
